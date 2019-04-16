@@ -2,8 +2,8 @@
     "name": "andersonpicoli/php",
     "authors": [
         {
-            "name": "php",
-            "email": "picoli@kliph.com.br"
+            "name": "anderson picoli",
+            "email": "picoli902@gmail.com"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
